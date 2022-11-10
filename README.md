@@ -12,4 +12,4 @@ output: [[[7, 6, 5], [4, 3], [2, 1]]
 
 
 
-(Patika.dev)[https://app.patika.dev/]
+[https://app.patika.dev/](Patika.dev)
